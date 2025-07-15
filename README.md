@@ -26,5 +26,8 @@ Try it live (Streamlit Cloud):
 
 ```bash
 pip install -r requirements.txt
+```
+### 🏃 Run the App Locally
+```bash
 streamlit run app.py
 
